@@ -27,9 +27,9 @@ html {
 .banner {
   overflow: hidden;
   position: absolute;
-  max-height: inherit;
-  bottom: inherit;
-  left: auto;
+  max-height: 50em;
+  bottom: -5em;
+  left: -10em;
 }
 
 .banner-content {
